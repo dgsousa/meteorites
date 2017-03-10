@@ -1,0 +1,23 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#map {
+	margin: 0;
+}
+
+
+path {
+  stroke: #266D89;
+  stroke-width: 0.25px;
+  fill: #95E1d3;
+}
+
+svg {
+	background: #266D89;
+}
+
+h3 {
+	margin: 0px;
+}
