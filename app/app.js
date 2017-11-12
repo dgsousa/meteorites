@@ -1,8 +1,6 @@
 import * as d3 from 'd3';
 import * as topojson from 'topojson';
 
-
-
 (function() {
 	var width = 1700;
 	var height = 835;
